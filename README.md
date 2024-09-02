@@ -79,7 +79,9 @@ Simulating Caesar Cipher
 ![image](https://github.com/user-attachments/assets/3977b9a7-e41a-454a-a9a4-6d17b128ee8c)
 
 Input : 
-Encrypted Message :WLERQEXLM  Decrypted Message : SHANMATHI
+Encrypted Message :WLERQEXLM  
+
+Decrypted Message : SHANMATHI
 
 ## RESULT:
 The Caesar Cipher program is executed successfully
@@ -545,7 +547,9 @@ Simulating Vigenere Cipher
 
 Input Message : SHANMATHI
 
-Encrypted Message :KHVRQTAHA  Decrypted Message : SHANMATHI
+Encrypted Message :KHVRQTAHA 
+
+Decrypted Message : SHANMATHI
 
 ## RESULT:
 The Vigenere cipher program is executed successfully
@@ -572,7 +576,7 @@ Implementation using C or pyhton code
 ### Step 3:
 
 Testing algorithm with different key values. 
-ALGORITHM DESCRIPTION:
+# ALGORITHM DESCRIPTION:
 In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
