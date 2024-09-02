@@ -1,4 +1,3 @@
-# Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
 
@@ -420,6 +419,7 @@ int main() {
 
 ```
 ## OUTPUT:
+
 Simulating Hill Cipher
 
 ![image](https://github.com/user-attachments/assets/4bb94805-af7f-4e0a-85a3-d220e7dced25)
@@ -540,9 +540,11 @@ void decipher() {
 ## OUTPUT:
 OUTPUT :
 Simulating Vigenere Cipher
+
 ![image](https://github.com/user-attachments/assets/6d6c301e-fc46-446d-b1ca-0e0b3b42bba5)
 
 Input Message : SHANMATHI
+
 Encrypted Message :KHVRQTAHA  Decrypted Message : SHANMATHI
 
 ## RESULT:
@@ -632,10 +634,13 @@ int main() {
 
 ```
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/053ce1e0-c202-486e-8896-7a802f902d7e)
 
 Enter a Secret Message : SHANMATHI
+
 Enter number of rails : 2
+
 SAMTIHNAH
 
 ## RESULT:
